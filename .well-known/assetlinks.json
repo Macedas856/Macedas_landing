@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "alexia.maceda.tiendas",
+    "sha256_cert_fingerprints":
+    ["2F:BC:09:F1:87:D4:BF:1C:0B:1D:0B:F6:E0:B9:F7:DA:AE:51:AC:EA:0A:4C:FC:FF:50:4F:91:A4:61:E7:82:61"]
+  }
+}]
